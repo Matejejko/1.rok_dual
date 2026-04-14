@@ -6,25 +6,25 @@
 
 ## ⚠️ Vyhlásenie o vylúčení zodpovednosti
 
-Tento repozitár som vytvoril ako osobný archív poznámok, cvičení, testov a materiálov z prvého roka duálneho štúdia. Zverejnil som ho s cieľom uľahčiť prístup k študijným materiálom ostatným študentom rovnakého odboru a školy.
+Tento repozitár som vytvoril ako osobný archív poznámok, cvičení, testov a materiálov z prvého roka duálneho štúdia. Zverejnil som ho s cieľom uľahčiť prístup k študijným materiálom ostatným študentom dualu.
 
 **Použitie materiálov**
-Materiály sú poskytované výlučne na študijné účely. Za akékoľvek zneužitie obsahu — vrátane opisovania, podvádzania alebo porušenia školského poriadku — nesie plnú zodpovednosť osoba, ktorá sa tohto konania dopustila. Autor repozitára za takéto konanie nezodpovedá.
+Materiály sú poskytované výlučne na študijné účely. Za akékoľvek zneužitie obsahu — vrátane opisovania, podvádzania alebo porušenia školského poriadku — nesie plnú zodpovednosť osoba, ktorá sa tohto konania dopustila. Ja ako autor za takéto konanie nezodpovedám.
 
 **Cudzie materiály a autorské práva**
-Časť obsahu pôvodne vytvorili spolužiaci alebo učitelia. Tieto materiály sú zverejnené výlučne v rámci zdieľania v uzavretej študentskej komunite rovnakej školy a odboru. Nie je dovolené ich ďalej šíriť, vydávať za vlastné ani inak využívať mimo štúdia bez súhlasu pôvodného autora.
+Časť obsahu pôvodne vytvorili moji spolužiaci alebo učitelia. Tieto materiály sú zverejnené výlučne v rámci zdieľania v uzavretej študentskej komunite rovnakej školy a odboru. Nie je dovolené ich ďalej šíriť, vydávať za vlastné ani inak využívať mimo štúdia bez súhlasu pôvodného autora.
 
 **Žiadosť o odstránenie obsahu**
-Ak ste autorom niektorého z materiálov a nesúhlasíte s jeho zverejnením v tomto repozitári, kontaktujte ma prostredníctvom GitHubu. Obsah bude na základe vašej žiadosti bezodkladne odstránený.
+Ak ste autorom niektorého z materiálov a nesúhlasíte s jeho zverejnením v tomto repozitári, kontaktujte ma prostredníctvom GitHubu alebo slocialných médií pripojených k tomuto účtu. Obsah bude na základe vašej žiadosti bezodkladne odstránený.
 
 ---
 
 ## 👥 Pre koho je tento repozitár
 
-Určené pre študentov duálneho štúdia na rovnakom odbore a škole — ako doplnkový študijný materiál, pomôcka pri učení alebo rýchla rekapitulácia pred testom.
+Určené pre študentov duálneho štúdia SPŠE košice a Telekomu — ako doplnkový študijný materiál, pomôcka pri učení alebo rýchla rekapitulácia pred testom.
 
 **Prečo sú tu testy?**
-Staré testy sú tu ako študijná pomôcka — aby si vedel čo a ako učiteľ skúša, v akom formáte sú otázky a na čo sa zamerať pri učení. Nie sú tu preto, aby si ich odovzdal ako svoje.
+Materiály v priečinku TESTY/ sú určené výlučne na prípravu — ako ukážka formátu otázok a rozsahu učiva. Ich použitie na opisovanie alebo akúkoľvek formu akademického podvodu je na výhradnú zodpovednosť osoby, ktorá sa tohto konania dopustila. Ja ako autor repozitára za takéto konanie nenesiem žiadnu zodpovednosť.
 
 **Prečo sú tu prezentácie spolužiakov?**
 Slúžia ako ukážka toho, čo a ako ostatní spracovali — inšpirácia, referencia, alebo jednoducho materiál na doplnenie si medzier. Nie sú tu na kopírovanie.
